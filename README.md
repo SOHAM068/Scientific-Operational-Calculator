@@ -1,6 +1,7 @@
 # Scientific-Operational-Calculator
 This code is of a scientific calculator that can be used to calculate various arithmetic operations such as addition, subtraction, multiplication, division, factorial, modulus, square, square root, etc.
 
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<math.h>
@@ -31,7 +32,6 @@ int main(){
     printf("Enter 8  for square \n");
     printf("Enter 9  for cube \n");
     printf("Enter 10 for squareroot\n\n");
-    
     while(1){    
     printf("\n\nEnter the operation you want to do: ");
     
